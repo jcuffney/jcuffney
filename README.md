@@ -1,4 +1,8 @@
+# ![jcuffney readme header](./imgs/masthead.jpg)
+
 ### Hi there 👋
+
+> I am an experienced Lead Engineer with a demonstrated history of working with brands large and small to see creative ideas come to life. Language agnostic, and focused on problem solving, I apply my theoretical knowledge of Computer Science to a wide array of problems to find the best possible solution.
 
 <!--
 **jcuffney/jcuffney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# ![jcuffney readme header](./imgs/running.gif)
+
