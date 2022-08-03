@@ -1,4 +1,6 @@
-# ![jcuffney readme header](https://github.com/jcuffney/jcuffney/blob/master/imgs/running.gif?raw=true)
+<p align="center">
+  <img width="600" height="200" src="[https://www.python.org/python-.png](https://github.com/jcuffney/jcuffney/blob/master/imgs/running.gif?raw=true)">
+</p>
 
 ### Hi there 👋
 
