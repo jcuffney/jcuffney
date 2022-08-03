@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="600" height="200" src="https://github.com/jcuffney/jcuffney/blob/master/imgs/running.gif?raw=true">
+  <img width="100%" height="auto" src="https://github.com/jcuffney/jcuffney/blob/master/imgs/running.gif?raw=true">
 </p>
 
 ### Hi there 👋
@@ -12,7 +12,7 @@ Increasing economic freedom in the world @ Coinbase.
 
 ### How to reach me:
 
-@jcuffney on twitter
+[@jcuffney](https://twitter.com/jcuffney) on twitter
 
 <!--
 **jcuffney/jcuffney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
