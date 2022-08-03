@@ -1,4 +1,4 @@
-# ![jcuffney readme header](https://github.com/jcuffney/jcuffney/blob/master/imgs/masthead.jpg?raw=true)
+# ![jcuffney readme header](https://github.com/jcuffney/jcuffney/blob/master/imgs/running.gif?raw=true)
 
 ### Hi there 👋
 
@@ -19,5 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# ![jcuffney readme header](https://github.com/jcuffney/jcuffney/blob/master/imgs/running.gif?raw=true)
 
