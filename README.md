@@ -1,10 +1,18 @@
 <p align="center">
-  <img width="600" height="200" src="[https://www.python.org/python-.png](https://github.com/jcuffney/jcuffney/blob/master/imgs/running.gif?raw=true)">
+  <img width="600" height="200" src="https://github.com/jcuffney/jcuffney/blob/master/imgs/running.gif?raw=true">
 </p>
 
 ### Hi there 👋
 
-> I am an experienced Lead Engineer with a demonstrated history of working with brands large and small to see creative ideas come to life. Language agnostic, and focused on problem solving, I apply my theoretical knowledge of Computer Science to a wide array of problems to find the best possible solution.
+I am an experienced Lead Engineer with a demonstrated history of working with brands large and small to see creative ideas come to life. Language agnostic, and focused on problem solving, I apply my theoretical knowledge of Computer Science to a wide array of problems to find the best possible solution.
+
+### I'm currency working on:
+
+Increasing economic freedom in the world @ Coinbase.
+
+### How to reach me:
+
+@jcuffney on twitter
 
 <!--
 **jcuffney/jcuffney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
